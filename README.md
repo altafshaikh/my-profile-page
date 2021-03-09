@@ -58,6 +58,6 @@ To make the website Mobile Responsive
 To download the project enter the below command in your terminal or inside git-bash terminal if you are windows and using git bash  
 
 ```
-git clone https://github.com/ialtafshaikh/profile-page.git
+git clone https://github.com/altafshaikh/my-profile-page.git
 
 ```
